@@ -7,6 +7,7 @@ A curated list of awesome ambient noises for listening while programming
 + [Star Wars](#star-wars)
 + [Mass Effect](#mass-effect)
 + [Doctor Who](#doctor-who)
++ [Harry Potter](#harry-potter)
 + [Other](#other)
 
 ### Star Trek
@@ -42,6 +43,18 @@ A curated list of awesome ambient noises for listening while programming
 
 * [Doctor Who ASMR: The Tardis Interior Ambience](https://youtu.be/hdZv3pId_p8) [1:00:00]
 * [Doctor Who: Inside The Tardis Ambient Sounds](https://youtu.be/lHBQqfO-p50) [1:00:00]
+
+### Harry Potter
+
+* [Ministry of Magic Courtroom](https://www.youtube.com/watch?v=APp8GyzcPgE) [1:00:16]
+* [Diagon Alley](https://www.youtube.com/watch?v=ZlS71cADdDY) [1:00:03]
+* [The Burrow (Weasley's House)](https://www.youtube.com/watch?v=gLPRWJgQkFY) [1:00:04]
+* [Grimmauld Place](https://www.youtube.com/watch?v=H5n2jjxZ9Dc) [1:00:13]
+* [Dumbledore's Office](https://www.youtube.com/watch?v=aih5aT6l3h4) [1:00:06]
+* [Dumbledore's Office II (Late Night)](https://www.youtube.com/watch?v=4p6D2NksiIQ) [1:00:06]
+* [Gryffindor Common Room](https://www.youtube.com/watch?v=ELNbciT5tYk) [59:39]
+* [Snape's Potion Classroom](https://www.youtube.com/watch?v=eyYB-txU6Jg) [1:00:01]
+* [Hagrid's Hut](https://www.youtube.com/watch?v=sf2Nx3OG0sQ) [1:00:05]
 
 ### Other
 
