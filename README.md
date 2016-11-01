@@ -8,6 +8,8 @@ A curated list of awesome ambient noises for listening while programming
 + [Mass Effect](#mass-effect)
 + [Doctor Who](#doctor-who)
 + [Harry Potter](#harry-potter)
++ [The Matrix](#the-matrix)
++ [Mr Robot](#mr-robot)
 + [Other](#other)
 
 ### Star Trek
@@ -55,6 +57,12 @@ A curated list of awesome ambient noises for listening while programming
 * [Gryffindor Common Room](https://www.youtube.com/watch?v=ELNbciT5tYk) [59:39]
 * [Snape's Potion Classroom](https://www.youtube.com/watch?v=eyYB-txU6Jg) [1:00:01]
 * [Hagrid's Hut](https://www.youtube.com/watch?v=sf2Nx3OG0sQ) [1:00:05]
+
+### The Matrix
+* [Neo's Apartment Ambience](https://youtu.be/RP4_FRNSPDw) [1:00:00]
+
+### Mr Robot
+* [Soundtrack OST Depth Of Field Mix](https://youtu.be/YC1n6NGANw0) [22:55]
 
 ### Other
 
